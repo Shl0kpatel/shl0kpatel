@@ -37,7 +37,7 @@ I care more about **how systems behave under real constraints** than building fl
 
 ---
 
-### 📚 Retrieval-Augmented Generation (RAG) System *(In Progress)*
+### 📚 Retrieval-Augmented Generation (RAG) System
 - Building a modular RAG pipeline for **document and website Q&A**
 - Clean separation between:
   - document ingestion & chunking
