@@ -26,14 +26,15 @@ I care more about **how systems behave under real constraints** than building fl
 
 ## 🚀 Highlight Projects
 
-### 🔐 SENTINEL — AI-Assisted API Security Testing Engine
-- Built an automated API testing engine that parses **OpenAPI/Swagger specs**
-- Generates negative, semantic, and security-focused test cases beyond schema validation
-- Combines **rule-based fuzzing** with **cached LLM-generated payloads** to reduce execution overhead
-- Validates runtime API responses against contract expectations and assigns severity
-- Designed for extensibility (new validators, attack modules, and rules)
+### 🏆 AlgoRank — Unified CP Analytics & Team Leaderboards
+**Live Demo:** [algo-rank.netlify.app](https://algo-rank.netlify.app/) 
+- Built a comprehensive Next.js analytics platform to unify **LeetCode and Codeforces** statistics, rating histories, and difficulty breakdowns into a single visual dashboard.
+- Engineered private team leaderboards featuring a custom **"AlgoScore" ranking algorithm** that dynamically evaluates and ranks cross-platform performance.
+- Integrated a global contest calendar for **Codeforces, LeetCode, CodeChef, and AtCoder** with real-time countdowns and interactive timeline views.
+- Optimized API resilience and performance using **dual-layer caching** and serverless edge API proxying to bypass strict CORS policies and upstream rate-limiting.
+- Implemented automated, dynamic **OpenGraph profile image generation** at the edge, allowing users to instantly export stylized stats badges.
 
-**Focus areas:** API contracts, validation logic, testing automation, backend reliability
+**Focus areas:** Next.js (App Router), Full-Stack System Architecture, Appwrite (BaaS), Serverless API Optimization, Data Visualization
 
 ---
 
@@ -52,11 +53,14 @@ I care more about **how systems behave under real constraints** than building fl
 
 ---
 
-### 🌍 Milestone Tracker — J.P. Morgan Code for Good 2025 (Winner)
-- Co-built a full-stack platform to manage NGO project milestones across teams
-- Implemented role-based access flows and structured submission pipelines
-- Integrated multilingual support and AI-assisted interaction for accessibility
-- Worked under real delivery constraints with production-oriented thinking
+### 🔐 SENTINEL — AI-Assisted API Security Testing Engine
+- Built an automated API testing engine that parses **OpenAPI/Swagger specs**
+- Generates negative, semantic, and security-focused test cases beyond schema validation
+- Combines **rule-based fuzzing** with **cached LLM-generated payloads** to reduce execution overhead
+- Validates runtime API responses against contract expectations and assigns severity
+- Designed for extensibility (new validators, attack modules, and rules)
+
+**Focus areas:** API contracts, validation logic, testing automation, backend reliability
 
 ---
 
@@ -74,5 +78,3 @@ I care more about **how systems behave under real constraints** than building fl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shl0kpatel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
